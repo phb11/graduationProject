@@ -1,0 +1,86 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@color/white"
+    android:padding="3dp">
+    <!--提醒类型-->
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <Spinner
+            android:id="@+id/alarm_button_type"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/spinner_unpressed"
+            android:text="@string/alarm_type"
+            android:textColor="@color/loading_error_btn_stroke_color"
+            android:textSize="10sp"
+            android:clickable="true"/>
+
+        <!--提醒类型-->
+        <!--提醒时间-->
+
+        <EditText
+            android:id="@+id/alarm_button_time"
+            android:layout_weight="1"
+            android:layout_marginLeft="2dp"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:hint="24:00"
+            android:textColorHint="@color/fuxk_base_color_gray"
+            android:background="@drawable/txt_bg"
+            android:textColor="@color/loading_error_btn_stroke_color"
+            android:textSize="18sp"
+            android:clickable="true"/>
+
+        <!--提醒时间-->
+        <!--提醒间隔-->
+        <Spinner
+            android:id="@+id/alarm_button_middle"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_marginLeft="3dp"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:background="@drawable/spinner_unpressed"
+            android:text="@string/alarm_middle"
+            android:textColor="@color/loading_error_btn_stroke_color"
+            android:textSize="10sp"
+            android:clickable="true"/>
+
+        <!--提醒间隔-->
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <Button
+
+            android:background="@drawable/btn_green_bg"
+            android:id="@+id/cancel"
+            android:textSize="15sp"
+            android:text="取消"
+            android:layout_marginRight="10dp"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content" />
+        <Button
+            android:background="@drawable/btn_green_bg"
+            android:id="@+id/ok"
+            android:textSize="15sp"
+            android:text="确定"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+
+</LinearLayout>

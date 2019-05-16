@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "G:\\fitness_Android-master\\APP\\Fitness\\app\\build\\intermediates\\res\\merged\\release\\raw\\enhance.mp4",
+        "source": "G:\\fitness_Android-master\\APP\\Fitness\\app\\src\\main\\res\\raw\\enhance.mp4"
+    },
+    {
+        "merged": "G:\\fitness_Android-master\\APP\\Fitness\\app\\build\\intermediates\\res\\merged\\release\\raw\\acme.mp4",
+        "source": "G:\\fitness_Android-master\\APP\\Fitness\\app\\src\\main\\res\\raw\\acme.mp4"
+    },
+    {
+        "merged": "G:\\fitness_Android-master\\APP\\Fitness\\app\\build\\intermediates\\res\\merged\\release\\raw\\movie.mp4",
+        "source": "G:\\fitness_Android-master\\APP\\Fitness\\app\\src\\main\\res\\raw\\movie.mp4"
+    },
+    {
+        "merged": "G:\\fitness_Android-master\\APP\\Fitness\\app\\build\\intermediates\\res\\merged\\release\\raw\\base.mp4",
+        "source": "G:\\fitness_Android-master\\APP\\Fitness\\app\\src\\main\\res\\raw\\base.mp4"
+    }
+]

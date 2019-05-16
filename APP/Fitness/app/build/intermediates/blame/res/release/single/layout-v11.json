@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "G:\\fitness_Android-master\\APP\\Fitness\\app\\build\\intermediates\\res\\merged\\release\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\P大人\\.android\\build-cache\\7db8a88f4419d1109dfd7d3b2f10873361250188\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "G:\\fitness_Android-master\\APP\\Fitness\\app\\build\\intermediates\\res\\merged\\release\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\P大人\\.android\\build-cache\\7db8a88f4419d1109dfd7d3b2f10873361250188\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "G:\\fitness_Android-master\\APP\\Fitness\\app\\build\\intermediates\\res\\merged\\release\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\P大人\\.android\\build-cache\\7db8a88f4419d1109dfd7d3b2f10873361250188\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "G:\\fitness_Android-master\\APP\\Fitness\\app\\build\\intermediates\\res\\merged\\release\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\P大人\\.android\\build-cache\\7db8a88f4419d1109dfd7d3b2f10873361250188\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "G:\\fitness_Android-master\\APP\\Fitness\\app\\build\\intermediates\\res\\merged\\release\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\P大人\\.android\\build-cache\\7db8a88f4419d1109dfd7d3b2f10873361250188\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "G:\\fitness_Android-master\\APP\\Fitness\\app\\build\\intermediates\\res\\merged\\release\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\P大人\\.android\\build-cache\\7db8a88f4419d1109dfd7d3b2f10873361250188\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    }
+]

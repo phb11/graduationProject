@@ -1,0 +1,7 @@
+#Thu May 16 13:08:37 CST 2019
+base.0=G\:\\fitness_Android-master\\APP\\Fitness\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_89c5f0a92857b6ad2884059273658669d10e4661
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=G\:\\fitness_Android-master\\APP\\Fitness\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_8d35f8babc448b17a9fd7080e609a7a79f5f7ca9\\classes.dex
+base.1=G\:\\fitness_Android-master\\APP\\Fitness\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_8d35f8babc448b17a9fd7080e609a7a79f5f7ca9
+file.0=G\:\\fitness_Android-master\\APP\\Fitness\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_89c5f0a92857b6ad2884059273658669d10e4661\\classes.dex

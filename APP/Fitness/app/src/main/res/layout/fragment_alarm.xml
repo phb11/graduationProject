@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:adjustViewBounds="true"
+                android:scaleType="centerCrop"
+                android:src="@drawable/alarm_top_bg" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="#80000000"
+                android:gravity="center"
+                android:text="@string/alarm"
+                android:textColor="@color/white"
+                android:textSize="30sp" />
+        </FrameLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+                <TextView
+                    android:background="@color/fuxk_base_color_gray"
+                    android:gravity="center"
+                    android:layout_weight="1.4"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="3dp"
+                    android:text="提醒种类"
+                    android:textSize="20sp"/>
+                <TextView
+                    android:background="@color/fuxk_base_color_gray"
+                    android:gravity="center"
+                    android:layout_weight="0.2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="3dp"
+                    android:text="提醒时间"
+                    android:textSize="20sp"/>
+                <TextView
+                    android:background="@color/fuxk_base_color_gray"
+                    android:layout_weight="1.4"
+                    android:gravity="center"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:text="提醒间隔"
+                    android:textSize="20sp"/>
+            </LinearLayout>
+
+        <ListView
+            android:id="@id/alarm_list"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="1dp"
+            android:paddingTop="2dp">
+
+        </ListView>
+    </LinearLayout>
+
+</LinearLayout>

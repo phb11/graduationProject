@@ -1,0 +1,247 @@
+-- Merging decision tree log ---
+manifest
+ADDED from G:\fitness_Android-master\APP\Fitness\app\src\main\AndroidManifest.xml:2:1-85:12
+	package
+		ADDED from G:\fitness_Android-master\APP\Fitness\app\src\main\AndroidManifest.xml:3:5-32
+		INJECTED from G:\fitness_Android-master\APP\Fitness\app\src\main\AndroidManifest.xml
+		INJECTED from G:\fitness_Android-master\APP\Fitness\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from G:\fitness_Android-master\APP\Fitness\app\src\main\AndroidManifest.xml
+		INJECTED from G:\fitness_Android-master\APP\Fitness\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from G:\fitness_Android-master\APP\Fitness\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from G:\fitness_Android-master\APP\Fitness\app\src\main\AndroidManifest.xml
+		INJECTED from G:\fitness_Android-master\APP\Fitness\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from G:\fitness_Android-master\APP\Fitness\app\src\main\AndroidManifest.xml:5:5-80
+	android:name
+		ADDED from G:\fitness_Android-master\APP\Fitness\app\src\main\AndroidManifest.xml:5:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from G:\fitness_Android-master\APP\Fitness\app\src\main\AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from G:\fitness_Android-master\APP\Fitness\app\src\main\AndroidManifest.xml:6:22-78
+uses-permission#android.permission.INTERNET
+ADDED from G:\fitness_Android-master\APP\Fitness\app\src\main\AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from G:\fitness_Android-master\APP\Fitness\app\src\main\AndroidManifest.xml:7:22-64
+application
+ADDED from G:\fitness_Android-master\APP\Fitness\app\src\main\AndroidManifest.xml:9:5-83:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\P大人\.android\build-cache\95ab2a7aa3bc203912aa3e75ea0b32ee141fec16\output\AndroidManifest.xml:9:5-20
+MERGED from [com.sangcomz:FishBun:0.6.5] C:\Users\P大人\.android\build-cache\c54b9e6f0aba6843a9561dca37789288f8c95a32\output\AndroidManifest.xml:11:5-29:19
+MERGED from [com.android.support:design:25.3.0] C:\Users\P大人\.android\build-cache\5991cc4617a6552838540d5aa36d498ce2028395\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.0] C:\Users\P大人\.android\build-cache\7db8a88f4419d1109dfd7d3b2f10873361250188\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\P大人\.android\build-cache\8177d0f13bdb4d3af9f406ee1f94e73fabfdb824\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\P大人\.android\build-cache\59b28a639b06998f6ba99ef9f653748688411302\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.0] C:\Users\P大人\.android\build-cache\baf37dadd457b1b52d02c6fec60964c6085905c8\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.0] C:\Users\P大人\.android\build-cache\33040c03dbba6f2feebf3aa67bb59143403c730f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\P大人\.android\build-cache\1db0555ff1d5003c8a6e49b114eaf9bc2ed07c10\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\P大人\.android\build-cache\0efac3cb6e07b41f36a17383bfa74dc6eb6833f7\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\P大人\.android\build-cache\289afc331767484f36094a7f305d2123c81fb7cf\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\P大人\.android\build-cache\83871501f76ce2b89f88f951eab474991ccd318d\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\P大人\.android\build-cache\ef8fe3cab1999a208d86e5cf2f445f066eec7808\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from G:\fitness_Android-master\APP\Fitness\app\src\main\AndroidManifest.xml:12:9-41
+	android:supportsRtl
+		ADDED from G:\fitness_Android-master\APP\Fitness\app\src\main\AndroidManifest.xml:14:9-35
+	android:roundIcon
+		ADDED from G:\fitness_Android-master\APP\Fitness\app\src\main\AndroidManifest.xml:13:9-52
+	android:allowBackup
+		ADDED from G:\fitness_Android-master\APP\Fitness\app\src\main\AndroidManifest.xml:10:9-35
+	android:icon
+		ADDED from G:\fitness_Android-master\APP\Fitness\app\src\main\AndroidManifest.xml:11:9-41
+	android:theme
+		ADDED from G:\fitness_Android-master\APP\Fitness\app\src\main\AndroidManifest.xml:15:9-40
+activity#com.lilei.fitness.view.SplashActivity
+ADDED from G:\fitness_Android-master\APP\Fitness\app\src\main\AndroidManifest.xml:16:9-24:20
+	android:screenOrientation
+		ADDED from G:\fitness_Android-master\APP\Fitness\app\src\main\AndroidManifest.xml:18:13-49
+	android:name
+		ADDED from G:\fitness_Android-master\APP\Fitness\app\src\main\AndroidManifest.xml:17:13-48
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from G:\fitness_Android-master\APP\Fitness\app\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from G:\fitness_Android-master\APP\Fitness\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from G:\fitness_Android-master\APP\Fitness\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from G:\fitness_Android-master\APP\Fitness\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from G:\fitness_Android-master\APP\Fitness\app\src\main\AndroidManifest.xml:22:27-74
+activity#com.lilei.fitness.view.MainActivity
+ADDED from G:\fitness_Android-master\APP\Fitness\app\src\main\AndroidManifest.xml:25:9-28:52
+	android:screenOrientation
+		ADDED from G:\fitness_Android-master\APP\Fitness\app\src\main\AndroidManifest.xml:28:13-49
+	android:launchMode
+		ADDED from G:\fitness_Android-master\APP\Fitness\app\src\main\AndroidManifest.xml:27:13-43
+	android:name
+		ADDED from G:\fitness_Android-master\APP\Fitness\app\src\main\AndroidManifest.xml:26:13-46
+activity#com.lilei.fitness.view.LoginActivity
+ADDED from G:\fitness_Android-master\APP\Fitness\app\src\main\AndroidManifest.xml:30:9-33:52
+	android:screenOrientation
+		ADDED from G:\fitness_Android-master\APP\Fitness\app\src\main\AndroidManifest.xml:33:13-49
+	android:launchMode
+		ADDED from G:\fitness_Android-master\APP\Fitness\app\src\main\AndroidManifest.xml:32:13-43
+	android:name
+		ADDED from G:\fitness_Android-master\APP\Fitness\app\src\main\AndroidManifest.xml:31:13-47
+activity#com.lilei.fitness.view.RegisterActivity
+ADDED from G:\fitness_Android-master\APP\Fitness\app\src\main\AndroidManifest.xml:35:9-38:52
+	android:screenOrientation
+		ADDED from G:\fitness_Android-master\APP\Fitness\app\src\main\AndroidManifest.xml:38:13-49
+	android:launchMode
+		ADDED from G:\fitness_Android-master\APP\Fitness\app\src\main\AndroidManifest.xml:37:13-43
+	android:name
+		ADDED from G:\fitness_Android-master\APP\Fitness\app\src\main\AndroidManifest.xml:36:13-50
+activity#com.lilei.fitness.view.DateCheckActivity
+ADDED from G:\fitness_Android-master\APP\Fitness\app\src\main\AndroidManifest.xml:39:9-42:52
+	android:screenOrientation
+		ADDED from G:\fitness_Android-master\APP\Fitness\app\src\main\AndroidManifest.xml:42:13-49
+	android:launchMode
+		ADDED from G:\fitness_Android-master\APP\Fitness\app\src\main\AndroidManifest.xml:41:13-43
+	android:name
+		ADDED from G:\fitness_Android-master\APP\Fitness\app\src\main\AndroidManifest.xml:40:13-51
+activity#com.lilei.fitness.view.ConfigActivity
+ADDED from G:\fitness_Android-master\APP\Fitness\app\src\main\AndroidManifest.xml:43:9-46:52
+	android:screenOrientation
+		ADDED from G:\fitness_Android-master\APP\Fitness\app\src\main\AndroidManifest.xml:46:13-49
+	android:launchMode
+		ADDED from G:\fitness_Android-master\APP\Fitness\app\src\main\AndroidManifest.xml:45:13-43
+	android:name
+		ADDED from G:\fitness_Android-master\APP\Fitness\app\src\main\AndroidManifest.xml:44:13-48
+activity#com.lilei.fitness.view.ReleaseNewsActivity
+ADDED from G:\fitness_Android-master\APP\Fitness\app\src\main\AndroidManifest.xml:47:9-50:52
+	android:screenOrientation
+		ADDED from G:\fitness_Android-master\APP\Fitness\app\src\main\AndroidManifest.xml:50:13-49
+	android:launchMode
+		ADDED from G:\fitness_Android-master\APP\Fitness\app\src\main\AndroidManifest.xml:49:13-43
+	android:name
+		ADDED from G:\fitness_Android-master\APP\Fitness\app\src\main\AndroidManifest.xml:48:13-53
+activity#com.lilei.fitness.view.HomepageActivity
+ADDED from G:\fitness_Android-master\APP\Fitness\app\src\main\AndroidManifest.xml:51:9-54:52
+	android:screenOrientation
+		ADDED from G:\fitness_Android-master\APP\Fitness\app\src\main\AndroidManifest.xml:54:13-49
+	android:launchMode
+		ADDED from G:\fitness_Android-master\APP\Fitness\app\src\main\AndroidManifest.xml:53:13-43
+	android:name
+		ADDED from G:\fitness_Android-master\APP\Fitness\app\src\main\AndroidManifest.xml:52:13-50
+activity#com.lilei.fitness.view.NewsDetailActivity
+ADDED from G:\fitness_Android-master\APP\Fitness\app\src\main\AndroidManifest.xml:55:9-58:52
+	android:screenOrientation
+		ADDED from G:\fitness_Android-master\APP\Fitness\app\src\main\AndroidManifest.xml:58:13-49
+	android:launchMode
+		ADDED from G:\fitness_Android-master\APP\Fitness\app\src\main\AndroidManifest.xml:57:13-43
+	android:name
+		ADDED from G:\fitness_Android-master\APP\Fitness\app\src\main\AndroidManifest.xml:56:13-52
+activity#com.lilei.fitness.view.BeforeDateCheckActivity
+ADDED from G:\fitness_Android-master\APP\Fitness\app\src\main\AndroidManifest.xml:59:9-62:52
+	android:screenOrientation
+		ADDED from G:\fitness_Android-master\APP\Fitness\app\src\main\AndroidManifest.xml:62:13-49
+	android:launchMode
+		ADDED from G:\fitness_Android-master\APP\Fitness\app\src\main\AndroidManifest.xml:61:13-43
+	android:name
+		ADDED from G:\fitness_Android-master\APP\Fitness\app\src\main\AndroidManifest.xml:60:13-57
+activity#com.lilei.fitness.view.CommentsListActivity
+ADDED from G:\fitness_Android-master\APP\Fitness\app\src\main\AndroidManifest.xml:63:9-66:52
+	android:screenOrientation
+		ADDED from G:\fitness_Android-master\APP\Fitness\app\src\main\AndroidManifest.xml:66:13-49
+	android:launchMode
+		ADDED from G:\fitness_Android-master\APP\Fitness\app\src\main\AndroidManifest.xml:65:13-43
+	android:name
+		ADDED from G:\fitness_Android-master\APP\Fitness\app\src\main\AndroidManifest.xml:64:13-54
+activity#com.lilei.fitness.view.FavorsListActivity
+ADDED from G:\fitness_Android-master\APP\Fitness\app\src\main\AndroidManifest.xml:67:9-70:52
+	android:screenOrientation
+		ADDED from G:\fitness_Android-master\APP\Fitness\app\src\main\AndroidManifest.xml:70:13-49
+	android:launchMode
+		ADDED from G:\fitness_Android-master\APP\Fitness\app\src\main\AndroidManifest.xml:69:13-43
+	android:name
+		ADDED from G:\fitness_Android-master\APP\Fitness\app\src\main\AndroidManifest.xml:68:13-52
+activity#com.lilei.fitness.view.VideoPlayer
+ADDED from G:\fitness_Android-master\APP\Fitness\app\src\main\AndroidManifest.xml:71:9-74:53
+	android:screenOrientation
+		ADDED from G:\fitness_Android-master\APP\Fitness\app\src\main\AndroidManifest.xml:74:13-50
+	android:launchMode
+		ADDED from G:\fitness_Android-master\APP\Fitness\app\src\main\AndroidManifest.xml:73:13-43
+	android:name
+		ADDED from G:\fitness_Android-master\APP\Fitness\app\src\main\AndroidManifest.xml:72:13-45
+activity#com.lilei.fitness.view.test.VideoPlayer
+ADDED from G:\fitness_Android-master\APP\Fitness\app\src\main\AndroidManifest.xml:77:9-80:53
+	android:screenOrientation
+		ADDED from G:\fitness_Android-master\APP\Fitness\app\src\main\AndroidManifest.xml:80:13-50
+	android:launchMode
+		ADDED from G:\fitness_Android-master\APP\Fitness\app\src\main\AndroidManifest.xml:79:13-43
+	android:name
+		ADDED from G:\fitness_Android-master\APP\Fitness\app\src\main\AndroidManifest.xml:78:13-50
+uses-sdk
+INJECTED from G:\fitness_Android-master\APP\Fitness\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\P大人\.android\build-cache\95ab2a7aa3bc203912aa3e75ea0b32ee141fec16\output\AndroidManifest.xml:5:5-7:41
+MERGED from [cn.aigestudio.datepicker:DatePicker:2.2.0] C:\Users\P大人\.android\build-cache\e37615f4fa3a0e5ce3fcfcdc96309c3257f9d9ca\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.zhy:okhttputils:2.6.2] C:\Users\P大人\.android\build-cache\35871f5b7eb67dd846703bfa014dde9923493bf6\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.sangcomz:FishBun:0.6.5] C:\Users\P大人\.android\build-cache\c54b9e6f0aba6843a9561dca37789288f8c95a32\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:25.3.0] C:\Users\P大人\.android\build-cache\5991cc4617a6552838540d5aa36d498ce2028395\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.0] C:\Users\P大人\.android\build-cache\7db8a88f4419d1109dfd7d3b2f10873361250188\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\P大人\.android\build-cache\8177d0f13bdb4d3af9f406ee1f94e73fabfdb824\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\P大人\.android\build-cache\59b28a639b06998f6ba99ef9f653748688411302\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.0] C:\Users\P大人\.android\build-cache\baf37dadd457b1b52d02c6fec60964c6085905c8\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.0] C:\Users\P大人\.android\build-cache\33040c03dbba6f2feebf3aa67bb59143403c730f\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\P大人\.android\build-cache\1db0555ff1d5003c8a6e49b114eaf9bc2ed07c10\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\P大人\.android\build-cache\0efac3cb6e07b41f36a17383bfa74dc6eb6833f7\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\P大人\.android\build-cache\289afc331767484f36094a7f305d2123c81fb7cf\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:recyclerview-v7:25.3.0] C:\Users\P大人\.android\build-cache\7eb33260f6e1d5252598697fa755bddc44a62278\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\P大人\.android\build-cache\83871501f76ce2b89f88f951eab474991ccd318d\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\P大人\.android\build-cache\ef8fe3cab1999a208d86e5cf2f445f066eec7808\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.0] C:\Users\P大人\.android\build-cache\5991cc4617a6552838540d5aa36d498ce2028395\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from G:\fitness_Android-master\APP\Fitness\app\src\main\AndroidManifest.xml
+		INJECTED from G:\fitness_Android-master\APP\Fitness\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from G:\fitness_Android-master\APP\Fitness\app\src\main\AndroidManifest.xml
+		INJECTED from G:\fitness_Android-master\APP\Fitness\app\src\main\AndroidManifest.xml
+provider#android.support.v4.content.FileProvider
+ADDED from [com.sangcomz:FishBun:0.6.5] C:\Users\P大人\.android\build-cache\c54b9e6f0aba6843a9561dca37789288f8c95a32\output\AndroidManifest.xml:12:9-20:20
+	android:authorities
+		ADDED from [com.sangcomz:FishBun:0.6.5] C:\Users\P大人\.android\build-cache\c54b9e6f0aba6843a9561dca37789288f8c95a32\output\AndroidManifest.xml:14:13-60
+	android:grantUriPermissions
+		ADDED from [com.sangcomz:FishBun:0.6.5] C:\Users\P大人\.android\build-cache\c54b9e6f0aba6843a9561dca37789288f8c95a32\output\AndroidManifest.xml:16:13-47
+	android:exported
+		ADDED from [com.sangcomz:FishBun:0.6.5] C:\Users\P大人\.android\build-cache\c54b9e6f0aba6843a9561dca37789288f8c95a32\output\AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [com.sangcomz:FishBun:0.6.5] C:\Users\P大人\.android\build-cache\c54b9e6f0aba6843a9561dca37789288f8c95a32\output\AndroidManifest.xml:13:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [com.sangcomz:FishBun:0.6.5] C:\Users\P大人\.android\build-cache\c54b9e6f0aba6843a9561dca37789288f8c95a32\output\AndroidManifest.xml:17:13-19:58
+	android:resource
+		ADDED from [com.sangcomz:FishBun:0.6.5] C:\Users\P大人\.android\build-cache\c54b9e6f0aba6843a9561dca37789288f8c95a32\output\AndroidManifest.xml:19:17-55
+	android:name
+		ADDED from [com.sangcomz:FishBun:0.6.5] C:\Users\P大人\.android\build-cache\c54b9e6f0aba6843a9561dca37789288f8c95a32\output\AndroidManifest.xml:18:17-67
+activity#com.sangcomz.fishbun.ui.album.AlbumActivity
+ADDED from [com.sangcomz:FishBun:0.6.5] C:\Users\P大人\.android\build-cache\c54b9e6f0aba6843a9561dca37789288f8c95a32\output\AndroidManifest.xml:22:9-25:72
+	android:label
+		ADDED from [com.sangcomz:FishBun:0.6.5] C:\Users\P大人\.android\build-cache\c54b9e6f0aba6843a9561dca37789288f8c95a32\output\AndroidManifest.xml:24:13-42
+	android:theme
+		ADDED from [com.sangcomz:FishBun:0.6.5] C:\Users\P大人\.android\build-cache\c54b9e6f0aba6843a9561dca37789288f8c95a32\output\AndroidManifest.xml:25:13-69
+	android:name
+		ADDED from [com.sangcomz:FishBun:0.6.5] C:\Users\P大人\.android\build-cache\c54b9e6f0aba6843a9561dca37789288f8c95a32\output\AndroidManifest.xml:23:13-71
+activity#com.sangcomz.fishbun.ui.picker.PickerActivity
+ADDED from [com.sangcomz:FishBun:0.6.5] C:\Users\P大人\.android\build-cache\c54b9e6f0aba6843a9561dca37789288f8c95a32\output\AndroidManifest.xml:26:9-28:72
+	android:theme
+		ADDED from [com.sangcomz:FishBun:0.6.5] C:\Users\P大人\.android\build-cache\c54b9e6f0aba6843a9561dca37789288f8c95a32\output\AndroidManifest.xml:28:13-69
+	android:name
+		ADDED from [com.sangcomz:FishBun:0.6.5] C:\Users\P大人\.android\build-cache\c54b9e6f0aba6843a9561dca37789288f8c95a32\output\AndroidManifest.xml:27:13-73
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.0] C:\Users\P大人\.android\build-cache\5991cc4617a6552838540d5aa36d498ce2028395\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.0] C:\Users\P大人\.android\build-cache\7db8a88f4419d1109dfd7d3b2f10873361250188\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\P大人\.android\build-cache\8177d0f13bdb4d3af9f406ee1f94e73fabfdb824\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\P大人\.android\build-cache\59b28a639b06998f6ba99ef9f653748688411302\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.0] C:\Users\P大人\.android\build-cache\baf37dadd457b1b52d02c6fec60964c6085905c8\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.0] C:\Users\P大人\.android\build-cache\33040c03dbba6f2feebf3aa67bb59143403c730f\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\P大人\.android\build-cache\1db0555ff1d5003c8a6e49b114eaf9bc2ed07c10\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\P大人\.android\build-cache\0efac3cb6e07b41f36a17383bfa74dc6eb6833f7\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\P大人\.android\build-cache\289afc331767484f36094a7f305d2123c81fb7cf\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:recyclerview-v7:25.3.0] C:\Users\P大人\.android\build-cache\7eb33260f6e1d5252598697fa755bddc44a62278\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\P大人\.android\build-cache\83871501f76ce2b89f88f951eab474991ccd318d\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\P大人\.android\build-cache\ef8fe3cab1999a208d86e5cf2f445f066eec7808\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.0] C:\Users\P大人\.android\build-cache\5991cc4617a6552838540d5aa36d498ce2028395\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.0] C:\Users\P大人\.android\build-cache\5991cc4617a6552838540d5aa36d498ce2028395\output\AndroidManifest.xml:26:9-47
